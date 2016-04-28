@@ -1,0 +1,20 @@
+{
+  "name": "servidornode",
+  "description": "Servidor de node",
+  "main": "",
+  "authors": [
+    "Raul Garcia Simon <patukaz@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Patukas/servidornode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
